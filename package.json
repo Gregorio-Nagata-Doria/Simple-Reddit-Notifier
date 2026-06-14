@@ -1,0 +1,17 @@
+{
+  "name": "simple-reddit-notifier",
+  "version": "1.0.0",
+  "description": "Monitors a Reddit RSS feed and pushes new posts with ntfy.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --env-file=.env main.js"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
