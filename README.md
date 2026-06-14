@@ -1,10 +1,10 @@
 # Simple Reddit Notifier
 
-🇧🇷 [Português](#-português) · 🇺🇸 [English](#-english)
+[Português](#-português) · [English](#-english)
 
 ---
 
-## 🇧🇷 Português
+## Português
 
 Monitora um feed RSS do Reddit e envia os posts novos via [ntfy](https://ntfy.sh).
 Genérico: aponte `REDDIT_URL` para qualquer subreddit ou busca.
@@ -60,7 +60,7 @@ de 5s entre envios e retry no 429 (o post não é marcado e reentra no próximo 
 
 ---
 
-## 🇺🇸 English
+## English
 
 Monitors a Reddit RSS feed and pushes new posts via [ntfy](https://ntfy.sh).
 Generic: point `REDDIT_URL` at any subreddit or search.
